@@ -1,0 +1,60 @@
+html {
+background-color: #494949;
+}
+
+body {
+    box-sizing: border-box;
+    border: solid grey 5px;
+    padding: 15px;  
+    margin: 30px;
+}
+
+ header {
+text-align:center;
+}  
+
+p {
+         text-align: center;
+     }
+
+.middletext {
+        text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+p.blocktext {
+    display: block;
+}
+
+.imageheight {
+    padding: 2.5px;
+    border-color: white;    
+}
+
+.aligntext {
+    font-size: 20px;
+    color: white; 
+}
+.sectionfont {
+    color: white;
+}
+
+h5 {
+    color: grey;
+}
+
+dt {
+    color: grey;
+}
+
+li {
+    color: white;
+}
+
+section {
+    color: white;
+}
+
